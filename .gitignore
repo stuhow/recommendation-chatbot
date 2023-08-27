@@ -1,0 +1,5 @@
+.env
+archive/
+.ipynb_checkpoints/
+.python-version
+.envrc
